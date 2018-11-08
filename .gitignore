@@ -1,0 +1,24 @@
+# Virtual environment
+venv
+
+# TMP folder for logs
+tmp
+
+# Python pyc files
+*.py[cod]
+
+# Tmp system files
+*.py~
+
+# IDEA or Pycharm projects
+.idea
+
+# sqlite db file
+*.sqlite3
+
+# Mac OS specific files
+.DS_STORE
+
+# Sublime projects
+*.sublime-project
+*.sublime-workspace

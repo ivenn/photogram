@@ -6,6 +6,7 @@ tmp
 
 # Python pyc files
 *.py[cod]
+__pycache__/
 
 # Tmp system files
 *.py~
@@ -22,3 +23,6 @@ tmp
 # Sublime projects
 *.sublime-project
 *.sublime-workspace
+
+# VS CODE project settings
+.vscode/
